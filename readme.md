@@ -2,17 +2,19 @@
 
 📗 기술 블로그: [velog.io/@0506phm](https://velog.io/@0506phm)
 
----
+<br/>
+
 
 ## 🔧 기술 스택
 
-**Frontend**: React, Next.js(12, 15), TypeScript  
-**State**: Redux, Zustand, Jotai, Recoil  
-**Style**: Tailwind CSS, Emotion, Styled-components, Panda CSS, vanila CSS
-**Infra**: Firebase (Auth, Firestore), SQLD  
-**ETC**: Electron, GitHub Actions, Vercel
+* React, Next.js(12, 15), TypeScript  
+* Redux, Zustand, Jotai, Recoil  
+* Tailwind CSS, Emotion, Styled-components, Panda CSS, vanila CSS
+* Firebase (Auth, Firestore), SQLD  
+* Electron, GitHub Actions, Vercel
 
----
+<br/>
+
 
 ## 🌱 기술 철학
 
